@@ -1,0 +1,47 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+.MuiPickersBasePicker-container {
+  align-items: center;
+}
+
+div.MuiPickersBasePicker-pickerView {
+  max-width: 100%;
+}
+
+p.MuiTypography-body2 {
+  font-size: 1rem;
+}
+
+div.MuiPickersToolbar-toolbar {
+  width: 100%;
+  align-items: center;
+}
+
+div.makeStyles-paper-61 {
+  padding: 0;
+}
+
+div.MuiAvatar-root {
+  margin-left: 12px;
+}
+
+button.MuiButton-root {
+  min-width: 0;
+}
+
+div.apexcharts-tooltip {
+  background: #f3f3f3;
+  color: black;
+}

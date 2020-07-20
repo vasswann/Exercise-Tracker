@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://istvan123:istvan123@cyclingapp-sog8w.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
